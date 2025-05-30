@@ -1,4 +1,5 @@
-('C:\\Users\\Franz Tyrone\\Downloads\\test\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\Franz Tyrone\\Downloads\\automation '
+ 'python\\build\\main\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Franz '
    'Tyrone\\AppData\\Roaming\\Python\\Python311\\site-packages\\PIL\\__init__.py',
